@@ -7,7 +7,7 @@
 
 - 💬 Puedes preguntame sobre **Html, css, Javascript, Sql, Diseño de Base de Datos y ExtJs**
 
-- 📫 Como llegar a mi **alexjair@gmail.com**
+- 📫 Como llegar a mi en : [linkedin.com/in/alexander-jair-rp](https://www.linkedin.com/in/alexander-jair-rp) 
 
 - 📄 Conoce mis experiencias [https://bit.ly/cv_jair](https://bit.ly/cv_jair)
 
