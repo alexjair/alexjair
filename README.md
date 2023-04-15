@@ -1,7 +1,9 @@
 <h1 align="center">Hola 👋, Soy Alexander Jair Rojas</h1>
 <h3 align="center">Soy un Desarrollador de Sistemas apasionado</h3>
 
+<!--
 - 👨‍💻 Todos mis proyectos están disponibles en [https://alexjair-portafolio.fullsys.live](https://alexjair-portafolio.fullsys.live)
+-->
 
 - 📝 Regularmente escribo artículos sobre [https://alexjair-blog.fullsys.live](https://alexjair-blog.fullsys.live)
 
