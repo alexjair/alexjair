@@ -3,9 +3,9 @@
 
 <!--
 - 👨‍💻 Todos mis proyectos están disponibles en [https://alexjair-portafolio.fullsys.live](https://alexjair-portafolio.fullsys.live)
--->
 
 - 📝 Regularmente escribo artículos sobre [https://alexjair-blog.fullsys.live](https://alexjair-blog.fullsys.live)
+-->
 
 - 💬 Puedes preguntame sobre **Html, css, Javascript, Sql, Diseño de Base de Datos y ExtJs**
 
