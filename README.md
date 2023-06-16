@@ -16,7 +16,7 @@
 
 - 📫 Como llegar a mi en : [linkedin.com/in/alexander-jair-rp](https://www.linkedin.com/in/alexander-jair-rp) 
 
-- 📄 Conoce mis experiencias [https://bit.ly/cv_jair***](https://bit.ly/cv_jair)
+- 📄 Conoce mis experiencias [https://bit.ly/curriculum-viate-alexjair](https://bit.ly/cv_jair)
 
 <h3 align="left">Contactame en:</h3>
 <p align="left">
